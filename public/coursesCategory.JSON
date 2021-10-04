@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Digital Marketing",
+        "img": "./apiImg/website-creation.jpg"
+    },
+    {
+        "name": "Cyber Security",
+        "img": "./apiImg/ethical-hacker.jpg"
+    },
+    {
+        "name": "Basic Computer Skills",
+        "img": "./apiImg/microsoft-powerpoint-2016.jpg"
+    },
+    {
+        "name": "Design Software",
+        "img": "./apiImg/photography-course.jpg"
+    },
+    {
+        "name": "Ecommerce Training",
+        "img": "./apiImg/ecommerce-marketing-1.jpg"
+    },
+    {
+        "name": "Sales Courses",
+        "img": "./apiImg/affiliate-marketing.jpg"
+    }
+]

@@ -1,0 +1,10 @@
+.nav {
+  margin: 0 10px;
+  transition: 0.2s all;
+  font-family: Josefin sans;
+  font-weight: 500;
+}
+.nav:hover,
+.nav:active {
+  color: #2d3092;
+}

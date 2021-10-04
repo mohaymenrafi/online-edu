@@ -1,0 +1,7 @@
+.hero-container {
+  background: #bcdefe;
+}
+.hero-container h2,
+.hero-container button {
+  font-family: Josefin Sans;
+}

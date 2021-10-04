@@ -1,0 +1,134 @@
+[
+    {
+        "id":1,
+        "courseFee":"$150",
+        "name":"Creating a Website without Coding",
+        "overview":"Website creation course to learn how to design and build a free website using Wix website builder with no coding. Wix is a no-code website builder and editor that helps you to highlight your digital presence. Learn how to use Wix to create highly customisable websites for yourself or other businesses.You will learn the fundamental principles of good design and how Wix makes it easy for anyone to create beautiful websites with or without design skills.84% of today’s consumers think a website makes your business more credible than companies who only have social media profiles. You can show potential customers what they’ll get when they work with you by displaying high-quality photography on your Wixsite.",
+        "duration": "3 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/website-creation.jpg"
+    },
+    {
+        "id":2,
+        "courseFee":"$120",
+        "name":"Lead Generation with Social Media",
+        "overview":"Develop an effective workable inbound marketing plan customised for your business needs.Improve content curation strategies across various social media platforms.Close sales effectively using the right digital skills and framework.Measure the effectiveness of your marketing strategies using digital tools.",
+        "duration": "6 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Minimum GCE ‘O’ Level English D7 or Workplace Literacy at WPL Level 5 or above (any 2 from the 4 WPL SOAs); and Workplace Numeracy at WPN Level 5 or above.",
+        "certification":"",
+        "img":"./apiImg/lead-generation.jpg"
+    },
+    {
+        "id":3,
+        "courseFee":"$125",
+        "name":"Digital Marketing Management",
+        "overview":"This course is designed for marketing professionals who need to oversee and manage digital marketing agencies on a day-to-day basis.The objective of this course is to allow marketing professionals to gain a broad understanding of Digital Marketing concept and methodologies, as well as key digital marketing terminologies and metrics. This course will also focus on techniques for managing marketing assets and unifying performance tracking for both online and offline channels.",
+        "duration": "2 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/digital-marketing-strategy.jpg"
+    },
+    {
+        "id":4,
+        "courseFee":"$350",
+        "name":"Video Production for Social Media",
+        "overview":"Video production course to give learners the foundation in digital video content creation for social media marketing. Learn about the basics of videography, plus the concepts of content strategy and visual storytelling. With this video making skills, learners can come up with an effective video marketing strategy for their business or brand’s social media platforms.",
+        "duration": "13 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/video-production-course.jpg"
+    },
+    {
+        "id":5,
+        "courseFee":"$250",
+        "name":"Digital Advertising Course",
+        "overview":"Digital advertising course walks you through the setup and running of online advertising on different social media platforms.Running Ad campaigns on Social Media is an integral part of Digital Marketing. Learn how to use Facebook Business Manager (Facebook & Instagram marketing), Google Ads and Youtube Studio to promote your business online in this hands-on workshop.",
+        "duration": "5 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/digital-advertising.jpg"
+    },
+    {
+        "id":6,
+        "courseFee":"$175",
+        "name":"Affiliate Marketing Training",
+        "overview":"Affiliate marketing course trains you in how to enroll into ClickBank, Amazon, or Shopify affiliate programmes and create income through affiliate marketing. Both beginners and experienced marketers can benefit from this training.Affiliate marketing is the process by which an affiliate earns a commission for marketing another person’s or company’s products. The affiliate searches for a product they enjoy, promotes that product and earns a piece of the profit from each sale they make. The sales are tracked via affiliate links from one website to another.Because affiliate marketing works by spreading the responsibilities of product marketing and creation across parties, it manages to leverage the abilities of a variety of individuals for a more effective marketing strategy while providing contributors with a share of the profit. Learn how to make this work with the three different parties involved: product owner, the affiliate or advertiser and the consumers.",
+        "duration": "5 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"",
+        "img":"./apiImg/affiliate-marketing.jpg"
+    },
+    {
+        "id":7,
+        "courseFee":"$150",
+        "name":"Social Media Marketing Course",
+        "overview":"Social Media Marketing Course equips you with the marketing potential of social media in the digital marketing arsenal. Social media can be a resourceful guide to brand your personal self, company or business. There are many Social Digital Media platform and tools that can increase productivity and effectiveness of your business and campaigns.With this social media marketing training, learn how various popular social marketing tools, social media platforms, well-planned content strategies can play significant roles in your personal branding, role as an Influencer or to increase brand awareness and enhancing your business.",
+        "duration": "4 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/social-media-marketing.jpg"
+    },
+    {
+        "id":8,
+        "courseFee":"$200",
+        "name":"Ecommerce Digital Marketing",
+        "overview":"Ecommerce Marketing training to fast-track your ecommerce campaigns. Learn to use a wide choice of social media traffic platforms such Facebook, Instagram, YouTube, Twitter, search engines & email campaigns, attract visitors by funneling sales leads and create conversion through secured transaction online.This course will give you the knowledge in popular ecommerce marketing strategies to secure online sales traffic, creating interesting video content messaging and applying multi-prong strategies to drive meaningful sales traffic to your ecommerce store or website.",
+        "duration": "15 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/ecommerce-marketing-1.jpg"
+    },
+    {
+        "id":9,
+        "courseFee":"$150",
+        "name":"Social Media Marketing Course Online",
+        "overview":"WSQ Social Marketing Course Online equips learners with the necessary knowledge and skill to recognise marketing opportunities and thereafter plan, execute and optimise marketing campaigns on social media platforms.",
+        "duration": "5 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/social-media-marketing-course.jpg"
+    },
+    {
+        "id":10,
+        "courseFee":"$250",
+        "name":"Fundamentals of Digital Marketing",
+        "overview":"Website creation course to learn how to design and build a free website using Wix website builder with no coding. Wix is a no-code website builder and editor that helps you to highlight your digital presence. Learn how to use Wix to create highly customisable websites for yourself or other businesses.You will learn the fundamental principles of good design and how Wix makes it easy for anyone to create beautiful websites with or without design skills.84% of today’s consumers think a website makes your business more credible than companies who only have social media profiles. You can show potential customers what they’ll get when they work with you by displaying high-quality photography on your Wixsite.",
+        "duration": "7 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/fundamentals-of-digital-marketing.jpg"
+    },
+    {
+        "id":11,
+        "courseFee":"$100",
+        "name":"Microsoft Excel 2019",
+        "overview":"Microsoft Excel Course in Singapore that trains learners in the basic concept of spreadsheets and to demonstrate the ability to use a spreadsheet application.Learners will understand and be able to accomplish tasks associated with developing, formatting, modifying and using a spreadsheet, in addition to using standard formulas and functions, and demonstrate competence in creating and formatting graphs or charts. Microsoft Excel 2019 will be used in this training.",
+        "duration": "3 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/microsoft-excel-2016.jpg"
+    },
+    {
+        "id":12,
+        "courseFee":"$150",
+        "name":"Microsoft Powerpoint Course",
+        "overview":"Microsoft Powerpoint Course enables learners to demonstrate competence in using presentation tools on a computer. Learners will learn how to use powerpoint to create, format, modify and prepare presentations using different slide layouts for display and printed distribution.",
+        "duration": "3 Days",
+        "modeOfTraining":"Online",
+        "prerequisites":"Basic computer knowledge and able to surf internet online. You are encouraged to bring your own laptop and charger to class. However one will be provided if necessary.",
+        "certification":"Participants who fulfil all requirements will receive a Statement of Attainment (SOA) issued by the OnlineEdu",
+        "img":"./apiImg/microsoft-powerpoint-2016.jpg"
+    }
+]

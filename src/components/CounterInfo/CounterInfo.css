@@ -1,0 +1,10 @@
+.counter-info {
+  background-color: #f6fbff;
+}
+.info-icon {
+  display: block;
+  margin: auto;
+}
+.counter-info h3 {
+  font-family: Sen;
+}

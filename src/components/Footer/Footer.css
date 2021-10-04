@@ -1,0 +1,17 @@
+.footer-container {
+  background: #0b0b1d !important;
+  font-family: Josefin sans;
+}
+.footer-container h2,
+.footer-container h3 {
+  font-family: Josefin sans;
+}
+.footer-container button {
+  font-family: Josefin Sans;
+}
+.footer-container input {
+  font-family: Josefin Sans;
+}
+.icons > * {
+  margin: 10px;
+}
